@@ -12,5 +12,10 @@ namespace LevelOne
         {
             Console.WriteLine("Hello LP1!");
         }
+
+        public static void NiceFeature()
+        {
+            Console.WriteLine("This is a nice feature!");
+        }
     }
 }
